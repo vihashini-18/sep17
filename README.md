@@ -21,11 +21,8 @@ This is a **Gradio-based interactive web app** that predicts the species of an I
 
 ---
 
-## Screenshots
 
-*(Add screenshots of the app here if you like)*
 
----
 
 ## Requirements
 
