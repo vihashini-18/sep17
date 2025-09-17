@@ -1,0 +1,39 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Anaconda environment files
+*.conda
+*.ipynb
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TensorFlow/Keras temporary files
+*.h5~ 
+*.ckpt
+*.tfrecord
+*.tflite
+
+# Logs
+*.log
+
+# Optional: Model weights (use Git LFS if needed)
+iris_model.h5
